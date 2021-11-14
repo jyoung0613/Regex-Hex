@@ -1,2 +1,4 @@
 # regex-hex
-regex expression to validate a hex value
+This is a tutorial on using a regex expression to validate a hex value
+
+
